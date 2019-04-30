@@ -55,3 +55,7 @@ int main(int argc, char const *argv[])
 		cout<<it<<" ";
 	return 0;
 }
+
+
+//	Complexity: O(nlogn)
+//	n = size of array

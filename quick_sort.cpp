@@ -34,3 +34,6 @@ int main(int argc, char const *argv[])
 		cout<<it<<" ";
 	return 0;
 }
+
+//	Complexity: O(n^2)
+//	n = size of array
